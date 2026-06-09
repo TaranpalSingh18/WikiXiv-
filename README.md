@@ -11,6 +11,8 @@ WikiXiv is a research assistant platform that takes a question, gathers evidence
 - Executive brief and technical report generation
 - Live workflow events for frontend progress tracking
 
+
+
 ## Screenshots
 
 ### Home Page
@@ -22,6 +24,8 @@ WikiXiv is a research assistant platform that takes a question, gathers evidence
 ![Home Page 2](home_page_2.png)
 
 ## How It Works
+
+![Workflow](wikixiv.png)
 
 The runtime pipeline follows these stages:
 
