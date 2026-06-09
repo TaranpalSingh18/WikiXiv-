@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
 
-from backend.app.core.research_assistant import ResearchAssistant
+from core.research_assistant import ResearchAssistant
 
 
 load_dotenv()
